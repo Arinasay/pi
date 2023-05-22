@@ -1,0 +1,15 @@
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.exe
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.deps.json
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.runtimeconfig.json
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.dll
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.pdb
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.csproj.AssemblyReference.cache
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.AssemblyInfoInputs.cache
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.AssemblyInfo.cs
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.csproj.CoreCompileInputs.cache
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.dll
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\refint\montekarlo.dll
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.pdb
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.genruntimeconfig.cache
+C:\Users\СазоноваАА\source\repos\montekarlo\montekarlo\obj\Debug\net6.0\ref\montekarlo.dll
